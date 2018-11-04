@@ -47,7 +47,6 @@ int main(){
 }
 
 
-/*
 不使用（a+b）/2这种方式，求两个数的平均值。
 #include<stdio.h>
 #include <stdlib.h>
